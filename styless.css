@@ -1,0 +1,133 @@
+body {
+	background: white;
+}
+
+.photofeed{
+	width: 100%;
+	min-width: 960px;
+	margin: 50px;
+}
+
+.flex-container{
+	background: white;
+	width: 500px;
+	height: 85px;
+	margin: auto;
+	padding: 0px 120px 1px 0px;
+}
+
+.flex-container h1{
+	min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.flex-container1{
+	display: flex;
+	background:#dcdcdc;
+	flex-wrap: wrap;
+	margin: 0% 11% 10% 5%;
+	height: auto;
+}
+
+.box{
+	background: white;
+	height: 500px;
+	width: 500px;
+	margin: 200px;
+}
+
+.one{
+	display: inline-block;
+    margin-left: 350px;
+    margin: 5% 30%;
+}
+
+.titulo-Foto1 h1{
+	font-size: small;
+	font-family: "Times New Roman", Times, serif;
+	height: 10px;
+	width: 300px;
+}
+
+.one img {
+    width: 495px;
+    height: 450px;
+	border-radius: 50px;
+	padding: 15px 0px 0px 3px;
+}
+
+.text-box-one{
+	padding: 15px 10px 20px 15px;
+	font-size: medium;
+	font-family: "Times New Roman", Times, serif;
+	width: auto;
+	word-wrap: break-word;
+	background:white;
+
+}
+
+.two{
+	display: inline-block;
+    margin-left: 350px;
+	margin: 5% 30%;
+}
+
+.titulo-Foto2 h1{
+	font-size: small;
+	font-family: "Times New Roman", Times, serif;
+	height: 10px;
+	width: 300px;
+	border-width: 1px;
+	
+}
+
+.two img {
+    width: 480px;
+    height: 410px; 
+	padding: 20px 10px 0px 10px;
+	border-color: grey;
+	border-top: 1px solid #bbb;
+}
+
+.text-box-two{
+	padding: 15px 10px 10px 10px;
+	font-size: medium;
+	font-family: "Times New Roman", Times, serif;
+	width: auto;
+	word-wrap: break-word;
+	background:white;
+}
+
+.three{
+	display: inline-block;
+    margin-left: 350px;
+    margin: 2% 30%;
+	
+}
+
+.titulo-Foto3 h1{
+	font-size: small;
+	font-family: "Times New Roman", Times, serif;
+	height: 15px;
+	width: 300px;
+}
+
+.three img {
+    width: 480px;
+    height: 400px;
+	padding: 15px 2px 1px 10px;
+	border-radius: 50px;
+}
+
+.text-box-three{
+	padding: 15px 10px 10px 10px;
+	font-size: medium;
+	font-family: "Times New Roman", Times, serif;
+	width: auto;
+	word-wrap: break-word;
+	background:white;
+	border-color: grey;
+}
